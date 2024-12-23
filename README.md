@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Addikin
+- 👀 I’m interested in cyber security and creating tools in python
+- 🌱 I’m currently learning about A.I and enhancing my knowledge of python.
+- 💞️ I’m looking to collaborate on building tools in python
+- 📫 You can reach me by email @ addik3n@gmail.com
